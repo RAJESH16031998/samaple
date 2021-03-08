@@ -1,1 +1,1 @@
-consol
+consol.log("hello world";)
