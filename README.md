@@ -1,1 +1,1 @@
-# samaple
+# sample
